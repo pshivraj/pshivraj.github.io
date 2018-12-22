@@ -1,8 +1,8 @@
 # site settings
-title: Personal Webpage
-subtitle: Vedant Choudhary
-email: vedantc6@gmail.com
-description: Looking for Summer 2019 internships<br /> in Machine Learning, Deep Learning and Software Development
+title: Vedant Choudhary
+subtitle: Personal Webpage
+email: vedant.choudhary@rutgers.edu
+description: Currently looking for Summer 2019 internships<br /> in Machine Learning, Deep Learning and Software Development
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -27,7 +27,7 @@ instagram_url: https://instagram.com
 linkedin_url: https://www.linkedin.com/in/vedantc6/
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url:
 
 # build settings
 markdown: kramdown

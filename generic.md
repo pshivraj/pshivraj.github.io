@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Me
-description: Know more about me and my interests
+description: Know more about me
 image: assets/images/pic11.jpg
 nav-menu: true
 ---

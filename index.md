@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Vedant Choudhary and I am pursuing Masters in Data Science from the CS department of Rutgers University, New Brunswick.'
+landing-title: 'Hi, I am Vedant Choudhary'
 description: null
 image: null
 author: null

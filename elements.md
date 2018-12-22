@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resume and Publications
+image: assets/images/inari.jpg
 nav-menu: true
 ---
 

@@ -1,9 +1,9 @@
 # site settings
 title: Vedant
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+email: vedantc6@gmail.com
 description: Looking for Summer 2019 internships<br /> in Machine Learning, Deep Learning and Software Development
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road

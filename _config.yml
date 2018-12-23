@@ -11,7 +11,6 @@ city: New Brunswick
 state: NJ
 zip_code: 08901
 country: United States of America
-phone: (908) 930-2194
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -27,7 +26,7 @@ instagram_url: https://instagram.com
 linkedin_url: https://www.linkedin.com/in/vedantc6/
 pinterest_url:
 slack_url:
-twitter_url:
+twitter_url: https://twitter.com/Vedant_C6
 
 # build settings
 markdown: kramdown

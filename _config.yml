@@ -6,7 +6,7 @@ description: Currently looking for Summer 2019 internships<br /> in Machine Lear
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 136 George Street, 2nd Fl
+street_address:
 city: New Brunswick
 state: NJ
 zip_code: 08901

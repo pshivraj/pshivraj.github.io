@@ -7,5 +7,3 @@ image: null
 author: null
 show_tile: false
 ---
-
-What do I write here, where is it shown?

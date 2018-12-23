@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 layout: landing
-description: 'Things that interest me, make me burn the midnight oil.<br>Check out some projects I have worked on. Most of them are in the field of Machine Learning and Deep Learning - areas that interest me the most.'
+description: 'Things that interest me, make me burn the midnight oil.<br>Check out some projects I have worked on. Most of them are in the field of Machine Learning, Deep Learning and Data Science - areas that interest me the most.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -45,6 +45,47 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
+			<img src="assets/images/stats.gif" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Scratching Statistics </h3>
+				</header>
+				<p>A plethora of projects/assignments I completed as part of my CS581: Probability and Statistics, all from scratch. The github repo attached consists an EDA on Hurricane data, which used Monte Carlo Simulation to establish if the data followed Poisson distribution or not, Method of Moments and Maximum Likelihood estimations for discrete and continuous distributions, Goodness of Fit through Kolmogorov Smirnov test, Sampling methods like Bootstrap and Jackknife followed by the major project which involved finding out over and under-expressed genes in NCI60 data-set by using student t-test and false discovery rates.<b>Tech used: R Programming</b></p>
+				<ul class="actions">
+					<li><a href="https://github.com/vedantc6/CS581ProbStat" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/tnc.png" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Test and Control Methodology - Retail Stores</h3>
+				</header>
+				<p>During my time as a data analyst for <a href="https://www.thesmartcube.com/">The Smart Cube</a><b>, I worked on providing a test and control methodology for a major retail client. The main purpose for the project was to give a clear picture of how the client stores would get impacted in terms of sales if the client decided to do some changes in a store or a bunch of stores (position/space/range/new/old sections). The technology I deployed used a lot of statistical tests like slope-test, co-integration test and correlation tests to group stores which behaved similar in terms of sales, demographics etc. Tech used: SAS Programming, Microstrategy, SQL, Excel</b></p>
+			</div>
+		</div>
+	</section><section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/hmm.png" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Hierarchical Mixed Effects Modeling - Retail Stores</h3>
+				</header>
+				<p>Another project during my time as a data analyst for <a href="https://www.thesmartcube.com/">The Smart Cube</a><b> was on creating a Hierarchical Mixed Effects model for a major retail client, which allowed the client to gauge on the predicted impact on sales of products in its stores based on its demographics, weather, holidays, store changes such as change in position/range/space of items or renewal and discontinuation of items among other variables. The reason for choosing this type of model was due to the multi-level nature of data. Tech used: R Programming, Excel</b></p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
 			<img src="assets/images/gsa.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -52,7 +93,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Gravitational Search Algorithm in Recommendation Systems</h3>
 				</header>
-				<p>Project of many firsts. First Published paper - First International Conference - First Research experience. The motivation that stemmed the conceptualization of this paper was along the lines of fusing computational intelligence techniques with Collaborative filtering methods. It explored a relatively new bio-inspired meta-heuristic algorithm named Gravitational Search Algorithm(GSA) for the purpose of recommending jokes to users. Later, I presented the paper in the 8th International Conference on Swarm Intelligence, Fukuoka, Japan. </p>
+				<p>Project of many firsts. First Published paper - First International Conference - First Research experience. The motivation that stemmed the conceptualization of this paper was along the lines of fusing computational intelligence techniques with Collaborative filtering methods. It explored a relatively new bio-inspired meta-heuristic algorithm named Gravitational Search Algorithm(GSA) for the purpose of recommending jokes to users. Later, I presented the paper in the 8th International Conference on Swarm Intelligence, Fukuoka, Japan. <b>Tech used: Python, Latex</b></p>
 				<ul class="actions">
 					<li><a href="https://link.springer.com/chapter/10.1007/978-3-319-61833-3_63" class="button">Learn more</a></li>
 				</ul>
@@ -68,7 +109,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Tackling TSP with Ant Colony Optimization and Visualization</h3>
 				</header>
-				<p>Final project for CS512:Data Structures and Algorithms. The traveling salesman problem was tackled with the help of a nature inspired technique called ant colony Optimization. The project models the probabilistic behavior of pheromone chemical interactions between ants while foraging for food. A simple user interface was also created to allow the user to play with the number of ants and steps the program should be run for. The final output was a visualization of the order of cities to be traveled so as to cover the least distance possible.</p>
+				<p>Final project for CS512:Data Structures and Algorithms. The traveling salesman problem was tackled with the help of a nature inspired technique called ant colony Optimization. The project models the probabilistic behavior of pheromone chemical interactions between ants while foraging for food. A simple user interface was also created to allow the user to play with the number of ants and steps the program should be run for. The final output was a visualization of the order of cities to be traveled so as to cover the least distance possible. <b>Tech used: Python</b></p>
 				<ul class="actions">
 					<li><a href="https://github.com/vedantc6/TSPACO" class="button">Learn more</a></li>
 				</ul>
@@ -84,7 +125,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Recommendation Systems</h3>
 				</header>
-				<p>Some of the basic and intermediate level work I did on recommendation systems before starting research work on <a href="https://link.springer.com/chapter/10.1007/978-3-319-61833-3_63">my paper</a> in my undergraduate days. Implementing song recommendation system based on popularity and items, movie recommendation system using Collaborative filtering with Particle Swarm Optimization (which later was a comparison algorithm for the paper)</p>
+				<p>Some of the basic and intermediate level work I did on recommendation systems before starting research work on <a href="https://link.springer.com/chapter/10.1007/978-3-319-61833-3_63">my paper</a> in my undergraduate days. Implementing song recommendation system based on popularity and items, movie recommendation system using Collaborative filtering with Particle Swarm Optimization (which later was a comparison algorithm for the paper)<b>Tech used: Python</b></p>
 				<ul class="actions">
 					<li><a href="https://github.com/vedantc6/MusicRecommendation" class="button">Learn more</a></li>
 				</ul>

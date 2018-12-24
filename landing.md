@@ -68,7 +68,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Test and Control Methodology - Retail Stores</h3>
 				</header>
-				<p>During my time as a data analyst for <a href="https://www.thesmartcube.com/">The Smart Cube</a><b>, I worked on providing a test and control methodology for a major retail client. The main purpose for the project was to give a clear picture of how the client stores would get impacted in terms of sales if the client decided to do some changes in a store or a bunch of stores (position/space/range/new/old sections). The technology I deployed used a lot of statistical tests like slope-test, co-integration test and correlation tests to group stores which behaved similar in terms of sales, demographics etc. Tech used: SAS Programming, Microstrategy, SQL, Excel</b></p>
+				<p>During my time as a data analyst for <b><a href="https://www.thesmartcube.com/">The Smart Cube</a></b>, I worked on providing a test and control methodology for a major retail client. The main purpose for the project was to give a clear picture of how the client stores would get impacted in terms of sales if the client decided to do some changes in a store or a bunch of stores (position/space/range/new/old sections). The technology I deployed used a lot of statistical tests like slope-test, co-integration test and correlation tests to group stores which behaved similar in terms of sales, demographics etc. <b>Tech used: SAS Programming, Microstrategy, SQL, Excel</b></p>
 			</div>
 		</div>
 	</section><section>
@@ -80,7 +80,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Hierarchical Mixed Effects Modeling - Retail Stores</h3>
 				</header>
-				<p>Another project during my time as a data analyst for <a href="https://www.thesmartcube.com/">The Smart Cube</a><b> was on creating a Hierarchical Mixed Effects model for a major retail client, which allowed the client to gauge on the predicted impact on sales of products in its stores based on its demographics, weather, holidays, store changes such as change in position/range/space of items or renewal and discontinuation of items among other variables. The reason for choosing this type of model was due to the multi-level nature of data. Tech used: R Programming, Excel</b></p>
+				<p>Another project during my time as a data analyst for <b><a href="https://www.thesmartcube.com/">The Smart Cube</a></b> was on creating a Hierarchical Mixed Effects model for a major retail client, which allowed the client to gauge on the predicted impact on sales of products in its stores based on its demographics, weather, holidays, store changes such as change in position/range/space of items or renewal and discontinuation of items among other variables. The reason for choosing this type of model was due to the multi-level nature of data. <b>Tech used: R Programming, Excel</b></p>
 			</div>
 		</div>
 	</section>

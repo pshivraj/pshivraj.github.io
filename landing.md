@@ -126,9 +126,25 @@ nav-menu: true
 				<header class="major">
 					<h3>Recommendation Systems</h3>
 				</header>
-				<p>Some of the basic and intermediate level work I did on recommendation systems before starting research work on <a href="https://link.springer.com/chapter/10.1007/978-3-319-61833-3_63">my paper</a> in my undergraduate days. Implementing song recommendation system based on popularity and items, movie recommendation system using Collaborative filtering with Particle Swarm Optimization (which later was a comparison algorithm for the paper)<b>Tech used: Python</b></p>
+				<p>Some of the basic and intermediate level work I did on recommendation systems before starting research work on <a href="https://link.springer.com/chapter/10.1007/978-3-319-61833-3_63">my paper</a> in my undergraduate days. Implementing song recommendation system based on popularity and items, movie recommendation system using Collaborative filtering with Particle Swarm Optimization (which later was a comparison algorithm for the paper). <b>Tech used: Python</b></p>
 				<ul class="actions">
 					<li><a href="https://github.com/vedantc6/MusicRecommendation" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/ml.gif" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Machine Learning Algorithms from scratch</h3>
+				</header>
+				<p>I worked on this project in order to understand how various machine learning algorithms work and to understand the math behind them. This project also serves as a refresher for someone who would like to go through the basic implementations of algorithms such as Linear/Logistic Regression, KNNs, ANNs, etc. <b>Tech used: Python</b></p>
+				<ul class="actions">
+					<li><a href="https://github.com/vedantc6/MLScratch" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>

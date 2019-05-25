@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, I am Vedant Choudhary'
+landing-title: 'Purshottam Shivraj (Shiv)'
 description: null
 image: null
 author: null
